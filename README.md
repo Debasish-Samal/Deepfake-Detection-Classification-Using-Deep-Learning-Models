@@ -2,8 +2,8 @@
 This repository contains the Code for Deepfake detection and classification using deep learning models
 
 ## Deep learning architectures used:
-InceptionV3 Based Model
-MobileNetV2 Based Model
+InceptionV3 Based Model,
+MobileNetV2 Based Model,
 ResNet50V2 Based Model
 
 ## Dataset Availability
